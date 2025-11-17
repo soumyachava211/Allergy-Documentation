@@ -1,0 +1,31 @@
+patient_id,substance,substance_code,reaction,severity,recorded_date
+1,Peanut allergy,91935009,Hives,severe,2024-01-05
+2,Penicillin allergy,373270004,Nausea,moderate,2024-02-10
+3,Dust allergy,256259004,Sneezing,mild,2024-03-02
+4,Shellfish allergy,300910009,Anaphylaxis,severe,2024-01-12
+5,Milk allergy,91938006,GI upset,moderate,2024-02-18
+6,Egg allergy,91930004,Rash,mild,2024-03-20
+7,Tree nut allergy,232347008,Shortness of breath,severe,2024-04-02
+8,Latex allergy,300916001,Contact dermatitis,moderate,2024-05-11
+9,Cat dander allergy,300910001,Sneezing,mild,2024-06-08
+10,Insect sting allergy,300916008,Swelling,moderate,2024-05-19
+11,Grass pollen allergy,256258007,Runny nose,mild,2024-06-22
+12,House dust mite allergy,256345002,Watery eyes,mild,2024-04-13
+13,Aspirin allergy,294708006,Breathing difficulty,severe,2024-02-05
+14,Ibuprofen allergy,294709003,Hives,moderate,2024-03-10
+15,Strawberry allergy,91934005,Rash,mild,2024-03-28
+16,Banana allergy,91932003,Hives,mild,2024-04-05
+17,Wheat allergy,91937002,GI upset,moderate,2024-05-30
+18,Soy allergy,91936001,Nausea,moderate,2024-01-18
+19,Dander allergy (dog),232339008,Sneezing,mild,2024-03-21
+20,Mold allergy,256259000,Nasal congestion,mild,2024-06-17
+21,Peanut allergy,91935009,Anaphylaxis,severe,2024-07-02
+22,Shellfish allergy,300910009,Throat tightness,severe,2024-08-11
+23,Pollen allergy,256296004,Sneezing,mild,2024-09-01
+24,Penicillin allergy,373270004,Rash,moderate,2024-08-19
+25,Chocolate allergy,782343002,Itching,mild,2024-07-26
+26,Perfume allergy,111088007,Headache,moderate,2024-09-14
+27,Nut allergy (mixed),417163006,Swelling,moderate,2024-09-23
+28,Avocado allergy,289298004,Oral itching,mild,2024-10-02
+29,Beef allergy,256444006,Stomach pain,moderate,2024-10-18
+30,Sunflower seed allergy,423478007,Itching,mild,2024-11-05
